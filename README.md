@@ -110,3 +110,7 @@ LiteGame Optimizer is provided as-is, without warranties. Review the source code
 ## License
 
 No license has been selected yet. Add a `LICENSE` file before distributing the project under an open-source license.
+
+##Screenshot
+<img width="1363" height="719" alt="image" src="https://github.com/user-attachments/assets/958da087-2590-4dae-9d5d-8407f7d8bdf6" />
+
